@@ -15,21 +15,21 @@ TagManager:
   - 
   - 
   - 
+  - ENVIRONMENT
   - 
   - 
   - 
   - 
+  - DIRECT_INTERACTOR
   - 
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - WEAPON_STAND
+  - GUN
+  - BOMB
+  - MOB
+  - CORE
+  - TELEPORTATION_ANCHOR
   - 
   - 
   - 
